@@ -3,6 +3,7 @@
 # 22I-2557
 # LAB TASK: 7
 # SE-B
+# SCD-LAB
 
 
 # Simple MERN Stack CRUD Application
